@@ -1,3 +1,4 @@
 Main branch first edit
+b1 branch third edit
 Main branch second edit
 Main branch second with detached head switched to b2
